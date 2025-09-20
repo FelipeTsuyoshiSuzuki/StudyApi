@@ -142,3 +142,8 @@ C:\Users\ftsuy\DotnetProjects\StudyApi\obj\Debug\net8.0\refint\StudyApi.dll
 C:\Users\ftsuy\DotnetProjects\StudyApi\obj\Debug\net8.0\StudyApi.pdb
 C:\Users\ftsuy\DotnetProjects\StudyApi\obj\Debug\net8.0\StudyApi.genruntimeconfig.cache
 C:\Users\ftsuy\DotnetProjects\StudyApi\obj\Debug\net8.0\ref\StudyApi.dll
+C:\Users\ftsuy\DotnetProjects\StudyApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ftsuy\DotnetProjects\StudyApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ftsuy\DotnetProjects\StudyApi\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ftsuy\DotnetProjects\StudyApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ftsuy\DotnetProjects\StudyApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
